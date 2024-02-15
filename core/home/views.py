@@ -79,9 +79,6 @@ def register(request):
             username=username
         )
         
-
-        
-        
         user.set_password(password)
         user.save()
         messages.info(request, "Account created successfully")
@@ -89,3 +86,6 @@ def register(request):
         return redirect('/register/')
         
     return render(request,'register.html')
+
+def trynow(request):
+    return render(request,'trynow.html')

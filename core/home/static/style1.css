@@ -1,0 +1,72 @@
+/* Style for the webcam container */
+#webcam-container {
+    margin-bottom: 20px;
+}
+
+/* Style for the webcam video */
+#webcam {
+    width: 100%;
+    max-width: 640px;
+    display: block;
+}
+
+/* Style for the textbox container */
+#textbox-container {
+    display: flex;
+    align-items: center;
+}
+
+/* Style for the textbox */
+#textbox {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Style for the speak button */
+#speak-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+/* Style for the speak button on hover */
+#speak-button:hover {
+    background-color: #0056b3;
+}
+
+/* Reset default margins and paddings */
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+/* Optional: Center the content vertically and horizontally */
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+} */
+
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+} */
+
+.content-container {
+    display: flex;
+    flex-direction: column; /* Assuming you want content centered vertically as well */
+    justify-content: center;
+    align-items: center;
+}
+
