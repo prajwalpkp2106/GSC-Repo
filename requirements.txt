@@ -1,0 +1,6 @@
+TensorFlow
+Pandas
+Numpy
+mediapipe 
+cnn 
+cv 
