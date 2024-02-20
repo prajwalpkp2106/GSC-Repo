@@ -22,6 +22,7 @@
         </div>
         <div id="middle">
 
+
             <ul class="nav-links">
                 <li class="nav-link">
                     <a href="#">Explore</a>
@@ -43,14 +44,8 @@
                 <li class="nav-link">
                     <a href="#contact_page">Connect</a>
                 </li>
-            </ul>
-
-        </div>
-        <!-- <div id="right_panel">
-            <button type="button" class="btn" onclick="window.location.href='/register/'">Sign In</button>
-
-        </div> -->
-<div class="relative inline-block">
+                <li class="nav-link">
+                    <div class="relative inline-block">
                     <button id="dropdownDefaultButton2" data-dropdown-toggle="dropdown" class=" inline-flex justify-center items-center w-40 gap-2  border-2 border-gray-400 bg-green-50 text-black font-semibold rounded-md hover:shadow-lg hover:bg-green-100 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2 transition-all text-lg py-1 px-4 dark:text-green-900 dark:hover:border-green-700" href="#">
                         <i class="fa-solid fa-language"></i>
                         Translate
@@ -74,6 +69,15 @@
                                 }
                             </script>
                         <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+                </li>
+            </ul>
+
+        </div>
+        <!-- <div id="right_panel">
+            <button type="button" class="btn" onclick="window.location.href='/register/'">Sign In</button>
+
+        </div> -->
+
         {% if request.user.is_authenticated %}
         <a href="/logout/" class="btn btn-outline-success" type="submit">Logout</a>
         {% else %}
