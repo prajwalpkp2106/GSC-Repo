@@ -48,6 +48,11 @@ In VisualVoices we think all people despite of color, sex, religon, culture etc 
    ```
 ## Insights to website
 
+
+![Screenshot (237)](https://github.com/mansidhote/GSC-Repo/assets/143797199/0dd5cf66-7685-4bc4-98c5-a9bf6ce507e7)
+
+
 ![Screenshot (240)](https://github.com/mansidhote/GSC-Repo/assets/143797199/3beea95c-b4c7-427c-8cb7-b645a7cf1ba3)
+
 
 ![Screenshot (239)](https://github.com/mansidhote/GSC-Repo/assets/143797199/e0a2bdef-a6ee-4856-a9b2-ef1c4d66916e)
