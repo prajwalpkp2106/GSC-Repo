@@ -46,4 +46,8 @@ In VisualVoices we think all people despite of color, sex, religon, culture etc 
    $ cd ML_Model
    $ python app.py
    ```
+## Insights to website
 
+![Screenshot (240)](https://github.com/mansidhote/GSC-Repo/assets/143797199/3beea95c-b4c7-427c-8cb7-b645a7cf1ba3)
+
+![Screenshot (239)](https://github.com/mansidhote/GSC-Repo/assets/143797199/e0a2bdef-a6ee-4856-a9b2-ef1c4d66916e)
