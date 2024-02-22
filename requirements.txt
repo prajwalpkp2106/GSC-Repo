@@ -4,4 +4,4 @@ Pandas
 Numpy
 mediapipe 
 cnn 
-cv 
+cv2
