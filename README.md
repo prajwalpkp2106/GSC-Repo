@@ -1,4 +1,4 @@
-# Visual Voice
+# VisualVoices
 
 Around 1.5billion people all over the world currently experiences some degree of hearing or speaking problems. Whereas the people and organization affected due to it is way more humongous.
 
