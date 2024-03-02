@@ -1,7 +1,11 @@
 django
-TensorFlow
-Pandas
-Numpy
 mediapipe 
 cnn 
 cv2
+scikit-learn
+tensorflow
+numpy 
+pandas
+matplotlib
+opencv-python
+seaborn
